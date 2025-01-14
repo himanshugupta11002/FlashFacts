@@ -1,3 +1,13 @@
+** Django website complete project is in my laptop, I am trying to make it live by 30th Jan 2025**
+
+
+
+
+
+
+
+
+
 **FAKE NEWS DETECTOR**
 
 I've developed a fake news detector using Streamlit, a Python library for building interactive web apps. The app utilizes Natural Language Processing (NLP) techniques to analyze text content and determine the likelihood of it being fake news. It incorporates a machine learning model trained on a dataset of both real and fake news articles. Users can input text or URLs, and the app provides a prediction on the authenticity of the information. The backend is powered by Python libraries such as NLTK, Scikit-learn, and TensorFlow for NLP and machine learning tasks.
